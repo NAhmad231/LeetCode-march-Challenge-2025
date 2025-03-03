@@ -9,7 +9,7 @@ This repository contains my solutions to the **LeetCode March Challenge 2025**. 
 |------|-----------------------------------------------------                  |--------------------------------------------|
 | 1    | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01) | [Day1_ApplyOperationstoanArray.cpp](./Day1_ApplyOperationstoanArray.cpp/) |
 | 2    | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02) | [Day2_MergeTwo2DArraysbySummingValues.cpp](./Day2_MergeTwo2DArraysbySummingValues.cpp) |
-| 3    | []() | [](./) |
+| 3    | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/?envType=daily-question&envId=2025-03-03) | [Day3_PartitionArrayAccordingtoGivenPivot.cpp](./Day3_PartitionArrayAccordingtoGivenPivot.cpp) |
 | 4    | []() | [](./) |
 | 5    | []() | [](./) |
 | 6    | []() | [](./) |
