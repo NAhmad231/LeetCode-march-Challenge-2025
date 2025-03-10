@@ -14,6 +14,6 @@ This repository contains my solutions to the **LeetCode March Challenge 2025**. 
 | 5    | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05) | [Day5_CountTotalNumberofColoredCells.cpp](./Day5_CountTotalNumberofColoredCells.cpp) |
 | 6    | []() | [](./) |
 | 7    | []() | [](./) |
-| 8    | []() | [](./) |
+| 8    | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08) | [](./) |
 | 9    | []() | [](./) |
 | 10   | []() | [](./) |
